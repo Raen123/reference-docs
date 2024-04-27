@@ -1,4 +1,5 @@
-package outputs
+raenkooper38@gmail.comm
+Mergestrategykeypackage package outputs
 
 import "github.com/kubernetes-sigs/reference-docs/gen-resourcesdocs/pkg/kubernetes"
 
